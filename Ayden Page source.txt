@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+ <html>
+ <head> 
+<title>Squeak Entertainment</title>
+ </head> 
+<body style="background-color:DodgerBlue;">
+ <h1 Style="color:Red">
+<center>Squeak Enertainment</center>
+</h1>
+ <p>NOT BLUE</p>
+<p style="font-family:times new roman;font-size:20px"> 
+<center> WOW this different </center> </p>
+<center> <img src="https://upload.wikimedia.org/wikipedia/en/archive/f/f4/20009012 </center>
+<a href="> </a>
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+ </body> 
+</html>
